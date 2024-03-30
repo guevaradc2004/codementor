@@ -1,7 +1,7 @@
 {
-  "name": "codementor",
+  "name": "codementorr",
   "version": "1.0.2",
-  "description": "codementor",
+  "description": "codementorr",
   "type": "module",
   "main": "codementor.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "website": "https://github.com/guevaradc2004/codementor.git",
   "keywords": [
-    "codementor"
+    "codementorr"
   ],
   "author": "guevaradc2004",
   "license": "ISC",
