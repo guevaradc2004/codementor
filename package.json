@@ -1,0 +1,33 @@
+{
+  "name": "codementor",
+  "version": "1.0.2",
+  "description": "codementor",
+  "type": "module",
+  "main": "codementor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guevaradc2004/codementor"
+  },
+  "website": "https://github.com/guevaradc2004/codementor.git",
+  "keywords": [
+    "codementor"
+  ],
+  "author": "guevaradc2004",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guevaradc2004/codementor/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/guevaradc2004/codementor#readme",
+  "dependencies": {
+    "codescriptwiz": "1.0.2",
+    "devprogrammer": "1.0.2",
+    "scriptcodesavvy": "1.0.2"
+  }
+}
